@@ -1,7 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Jayan!
 <!--
-**jayan110105/jayan110105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanskritilabroo/sanskritilabroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,tensorflow" />
+  </a>
+</p>
+
+### ⚡Interested in Machine Learning and Artificial Intelligence. 
+![Jayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayan110105&show_icons=true&theme=radical)
