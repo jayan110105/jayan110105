@@ -18,6 +18,6 @@
 ---
 
 ### :man_technologist: &nbsp;Passionate about Coding, AI, and Web Development.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayan110105&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayan110105&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook)
 
 ---
